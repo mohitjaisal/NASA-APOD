@@ -11,6 +11,11 @@ body {
   line-height: 1.8rem;
 }
 
+.nasalogo{
+    text-align: center;
+    width: 5%;
+}
+
 .container {
   position: relative;
   display: flex;
