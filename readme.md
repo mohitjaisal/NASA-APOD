@@ -50,4 +50,4 @@ git push origin feature/AmazingFeature
 ```
 5. Open a `Pull Request`
 <br>
-<p align="center">If you like this project, do `star` this repository ✨✨✨</p>
+<p align="center">If you like this project, do star this repository ✨✨✨</p>
